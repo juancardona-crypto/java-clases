@@ -34,9 +34,9 @@ public class Book {
         return precio;
     }
 
-    public void setPrcio(double precio){
+    public void setPrecio(double precio){
         if (precio >= 0){
-            this.stock = stock;
+            this.precio = precio;
         }
         else{
             System.out.println("Precio incorrecto");
@@ -65,8 +65,9 @@ public class Book {
     }
 
     
+    public String toString() {
+            return "Book [Nombre: " + nombre + ", Stock: " + stock + ", En venta: " + enventa + ", Precio: " + precio + "]";
 
-
-
+    }
 }
 
