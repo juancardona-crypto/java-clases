@@ -2,8 +2,8 @@ package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        Book lib1 = new Book();
-        Book lib2 = new Book("vientos de invierno", 0, true, 120000 );
+        Product lib1 = new Product();
+        Product lib2 = new Product("vientos de invierno", 0, true, 120000 );
 
         lib1.setNombre("Cien años de soledad");
         lib1.setStock(5);

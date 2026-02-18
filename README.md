@@ -23,15 +23,15 @@ Este proyecto es una demostración práctica de los conceptos fundamentales de l
 - Java Development Kit (JDK) 8 o superior instalado
 - Editor de texto o IDE (Eclipse, IntelliJ IDEA, VS Code, etc.)
 
+### demostracion d esalida:
+- === GETTERS - LIBRO 1 ===
+- Nombre: Cien años de soledad
+- Precio: 19.99
+- Stock: 5
+- ¿En venta?: true
 
-=== GETTERS - LIBRO 1 ===
-Nombre: Cien años de soledad
-Precio: 19.99
-Stock: 5
-¿En venta?: true
-
-=== GETTERS - LIBRO 2 ===
-Nombre: vientos de invierno
-Stock: 15
-Precio: 29.99
-¿En venta?: true
+- === GETTERS - LIBRO 2 ===
+- Nombre: vientos de invierno
+- Stock: 15
+- Precio: 29.99
+- ¿En venta?: true
