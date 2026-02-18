@@ -1,8 +1,8 @@
-# Proyecto Clase Book en Java
+# Proyecto Clase Product en Java
 
 ## 📚 Descripción del Proyecto
 
-Este proyecto es una demostración práctica de los conceptos fundamentales de la Programación Orientada a Objetos (POO) en Java. Implementa una clase `Book` que representa un libro con sus características básicas y una clase `Main` para demostrar su funcionalidad.
+Este proyecto es una demostración práctica de los conceptos fundamentales de la Programación Orientada a Objetos (POO) en Java. Implementa una clase `Product` que representa un libro con sus características básicas y una clase `Main` para demostrar su funcionalidad.
 
 ### Conceptos demostrados:
 - **Encapsulamiento**: Atributos privados con getters y setters
@@ -12,7 +12,7 @@ Este proyecto es una demostración práctica de los conceptos fundamentales de l
 - **Validaciones**: Control de valores negativos en setters
 
 ### Clases incluidas:
-- `Book.java`: Clase principal que define la estructura de un libro
+- `Product.java`: Clase principal que define la estructura de un libro
 - `Main.java`: Clase de demostración que muestra el uso de la clase Book
 
 ---
@@ -23,7 +23,7 @@ Este proyecto es una demostración práctica de los conceptos fundamentales de l
 - Java Development Kit (JDK) 8 o superior instalado
 - Editor de texto o IDE (Eclipse, IntelliJ IDEA, VS Code, etc.)
 
-### demostracion d esalida:
+### demostracion de salida:
 - === GETTERS - PRODUCTO 2 ===
 - Nombre: Vientos de invierno
 - Stock: 15
