@@ -11,8 +11,7 @@ public class Main {
         lib1.setEnventa(true);
         lib1.setPrecio(19.99);
         
-        lib2.setStock(15);  
-        lib2.setPrecio(29.99);  
+         
         
         System.out.println("=== GETTERS - PRODUCTO 1 ===");
         System.out.println("Nombre: " + lib1.getNombre());

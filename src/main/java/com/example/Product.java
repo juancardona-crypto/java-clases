@@ -7,7 +7,7 @@ public class Product {
     private double precio;
     
     public Product() {
-        this.nombre = null;
+        this.nombre = "";
         this.stock = 0;
         this.enventa = false;
         this.precio = 0.0;
@@ -36,7 +36,6 @@ public class Product {
         if (precio >= 0) {
             this.precio = precio;
         } else {
-            // CORREGIDO: Lanzar excepción en lugar de System.out.println
             throw new IllegalArgumentException("Error: El precio no puede ser negativo. Valor ingresado: " + precio);
         }
     }
